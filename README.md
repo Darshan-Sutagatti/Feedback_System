@@ -37,7 +37,8 @@ How to Run:
 2. Configure Apache Tomcat server  
 3. Add MySQL JDBC driver  
 4. Update database username and password in the code  
-5. Run the project on server  
+5. Run the project on server (Dont forget to add mysql connector jar files inside web-inf -> lib (i forgot it))
+ 
 
 Default Admin Login:
 Username: admin@email.com  
